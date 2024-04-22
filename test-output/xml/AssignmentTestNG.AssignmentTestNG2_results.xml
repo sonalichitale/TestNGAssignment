@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API_Post"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.559">
+    <properties></properties>
+
+
+
+            <testcase
+                name="delete_call"
+                time="3.044"
+                classname="AssignmentTestNG.AssignmentTestNG2">
+            </testcase>
+            <testcase
+                name="getcall"
+                time="3.770"
+                classname="AssignmentTestNG.AssignmentTestNG2">
+            </testcase>
+            <testcase
+                name="Create_Post_API"
+                time="4.828"
+                classname="AssignmentTestNG.AssignmentTestNG2">
+            </testcase>
+            <testcase
+                name="put_call"
+                time="6.917"
+                classname="AssignmentTestNG.AssignmentTestNG2">
+            </testcase>
+</testsuite>
