@@ -21,6 +21,10 @@ public class XLsupport {
     {
         //testname ="Sam Sundar";
         String NameXL =obj.read_And_Print_XL_AsPerTestData(testname,"Name");
+        String ModifiedXL1 =obj.modifydata_XL(testname,"Name");
+        String DeleteXL1 =obj.Deletedata_XL(testname,"Name");
+        String UpdatedXL1 =obj.updated_XL(testname,"Name");
+
         //String YearXL = obj.read_And_Print_XL_AsPerTestData(testname,"Year");
         //YearXL =String.valueOf(YearXL);
         //String DOBXL = obj.read_And_Print_XL_AsPerTestData(testname,"DOB");
