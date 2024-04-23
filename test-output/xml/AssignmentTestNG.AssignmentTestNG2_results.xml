@@ -4,29 +4,29 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="15.948">
+           time="12.356">
     <properties></properties>
 
 
 
             <testcase
-                name="getcall"
-                time="5.938"
-                classname="AssignmentTestNG.AssignmentTestNG2">
-            </testcase>
-            <testcase
                 name="delete_call"
-                time="2.131"
+                time="2.848"
                 classname="AssignmentTestNG.AssignmentTestNG2">
             </testcase>
             <testcase
-                name="put_call"
-                time="4.369"
+                name="getcall"
+                time="1.520"
                 classname="AssignmentTestNG.AssignmentTestNG2">
             </testcase>
             <testcase
                 name="Create_Post_API"
-                time="3.510"
+                time="6.187"
+                classname="AssignmentTestNG.AssignmentTestNG2">
+            </testcase>
+            <testcase
+                name="put_call"
+                time="1.801"
                 classname="AssignmentTestNG.AssignmentTestNG2">
             </testcase>
 </testsuite>
