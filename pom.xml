@@ -100,9 +100,9 @@
                         <!--                   This for cucumber     <include>**/Runner.java</include>-->
                     </includes>
                     <!--This id for Test NG-->
-<!--                    <suiteXmlFiles>-->
-<!--                        <suiteXmlFile></suiteXmlFile>-->
-<!--                    </suiteXmlFiles>-->
+                 <suiteXmlFiles>
+                        <suiteXmlFile>TestNGAssignment/Assignment1.xml</suiteXmlFile>
+                    </suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
